@@ -1,0 +1,13 @@
+[Unit]
+Description=Northstar Flask Store
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/northstar-store
+EnvironmentFile=/home/ubuntu/northstar-store/.env
+ExecStart=/home/ubuntu/northstar-store/.venv/bin/gunicorn --workers 3 --bind 127.0.0.1:8000 app:app
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
