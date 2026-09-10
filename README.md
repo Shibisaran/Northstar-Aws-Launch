@@ -143,8 +143,6 @@ Use a production application server such as Gunicorn and configure it as a syste
 
 This makes the application behave like a persistent production service instead of a manually executed development process.
 
-![][image3]
-
 install Gunicorn inside your virtual environment:
 
 cd /home/ec2-user/Northstar-Aws-Launch  
@@ -210,8 +208,6 @@ Security group troubleshoot
 1) Delete the inbound of errored rule and add new rule and connect the Ec2 security group again, but i dont know why it is happening 
 
 ![image alt](https://github.com/Shibisaran/Northstar-Aws-Launch/blob/8179852f4aee1d27de83f92694cc1d1a25dd8ca6/screenshots/img5.jpg)  
-![][image5]  
-![][image6]  
-![][image7]  
-
+![image alt](https://github.com/Shibisaran/Northstar-Aws-Launch/blob/e24feb629938b74b42a09965db66e1d93d8baf09/screenshots/imf4.jpg)  
+![image alt](https://github.com/Shibisaran/Northstar-Aws-Launch/blob/e24feb629938b74b42a09965db66e1d93d8baf09/screenshots/img3.jpg)  
 
