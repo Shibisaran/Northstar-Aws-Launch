@@ -47,7 +47,7 @@ The proposed architecture addresses these problems while attempting to keep the 
 
 ## **Architecture Diagram**
 
-## **![][image1](https://github.com/Shibisaran/Northstar-Aws-Launch/blob/8ba433c67ab5556abfa1515f2c52f830d630a8cc/screenshots/Application%20layer%20(1).jpg)**
+## **![image alt](https://github.com/Shibisaran/Northstar-Aws-Launch/blob/8ba433c67ab5556abfa1515f2c52f830d630a8cc/screenshots/Application%20layer%20(1).jpg)**
 
 ## **Tier 1 — Presentation Layer**
 
