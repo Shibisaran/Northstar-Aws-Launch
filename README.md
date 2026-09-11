@@ -188,7 +188,7 @@ sudo systemctl status northstar
 * Connecting load balancer to RDS which is inside private subnet, how to do it
 
 Troubleshooting  
-Cannot connect to the RDS
+Cannot connect to the RDS.   
 
 1) Check the database port is allowed in the instance security group, this cause connection timeout   
 2) Check the ec2 instance security group is allowed in RDS security group, it shows connection refused  
