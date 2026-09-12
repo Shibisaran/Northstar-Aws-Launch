@@ -1,7 +1,7 @@
 # **Low-Cost, Highly Available and Scalable Cloud Infrastructure for Startups**
 
 ### **1\. Project Overview**
-
+    
 Startups and small companies often face a major challenge when moving their applications to the cloud. They need their applications to be **available, secure and capable of handling increasing traffic**, but they cannot afford the same infrastructure and operational complexity used by large enterprises.
 
 A traditional cloud deployment may involve multiple servers, databases, networking components, monitoring systems, security services and backup solutions. If these services are configured without considering cost, the monthly cloud bill can quickly become difficult for a startup to manage.
