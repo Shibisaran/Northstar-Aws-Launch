@@ -171,7 +171,7 @@ then app:app is correct.
 
 If it starts successfully, you should see something like:
 
-Listening at: [http://127.0.0.1:8000](http://127.0.0.1:8000)  
+Listening at: [http://127.0.0.1:8000]. (http://127.0.0.1:8000)  
 **Check your systemd service**
 
 Run:
